@@ -1,0 +1,19 @@
+nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+    padding: 0px;
+}
+.nav-link {
+    padding: 1rem 1rem;
+}
+li.active a.nav-link {
+    background: #f3f3f3;
+}
+h5.card-title.text-white {
+    margin: 0 !important;
+}
+h5,h6 {
+    margin: 0 !important;
+}
+input.form-control.danger {
+    border-color: #ea3527 !important;
+    box-shadow: none;
+}
