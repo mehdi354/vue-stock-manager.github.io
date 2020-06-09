@@ -15,7 +15,7 @@ axios.defaults.baseURL = 'https://stock-trader-50913.firebaseio.com/';
 Vue.prototype.$axios = axios;
 
 const router = new VueRouter({
-  mode: 'history',
+  // mode: 'history',
   routes,
 });
 
